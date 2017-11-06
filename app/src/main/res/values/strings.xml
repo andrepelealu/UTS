@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTS_GeometriCalculator</string>
+    <string name="calc">Calc</string>
+    
+    <string-array name="rumus">
+        <item>Persegi</item>
+        <item>Lingkaran</item>
+        <item>Segitiga Siku-Siku</item>
+
+    </string-array>
+</resources>
